@@ -64,17 +64,17 @@ Explain the integration of development tools, the options and how to install app
 
 9:00 Recap Day One
 
-9:15 Istio Service Mesh
+9:15 Buliding Containers with Buildah 
 
-9:45 Container Native Virtualisation
+10:00 Istio Service Mesh
 
-10:00 API Management (3Scale)
+10:40 Container Native Virtualisation
 
-10:30 Break
+11:00 Break
 
-10:45 Modern Regisitry Management (QUAY)
+11:15 Modern Regisitry Management (QUAY)
 
-11:30 AMQ StreaMAS and Kafka
+11:30 API Management with 3Scale
 
 12:30 Lunch Break
 
@@ -82,7 +82,7 @@ Explain the integration of development tools, the options and how to install app
 
 15:00 Break
 
-15:15 Next Steps and Q&A
+15:15 RoadMap and Q&A
 
 16:00 Closing
 
