@@ -78,7 +78,7 @@ Explain the integration of development tools, the options and how to install app
 
 12:30 Lunch Break
 
-13:30 Container Security
+13:30 Running Continerised Workloads on OpenShift (IBM CloudPak, MS, ...)
 
 15:00 Break
 
