@@ -3,7 +3,7 @@
 
 # Red Hat OpenShift 4.x Infrastructure Workshop
 ## for Advanced and Premium Red Hat Patners
-September 2019
+Q1 2020
 
 In this repositiory you find the content of the workshop and usefull links to make you familar with OpenShift
 
@@ -30,7 +30,8 @@ A notebook with a browser
 ### Expected results
 
 After attending this workshop you know how to architect and install an OpenShift environment, explain CRI-O, Istio and other “state of the art” tools to manage and meter OpenShift.
-Explain the integration of development tools, the options and how to install applications from other vendors on OpenShift (IBM, SAP,….)
+Discussing details about Networking, Storage, multi cloud management, virtualisation ....
+
 
 ## Agenda:
 
@@ -40,23 +41,23 @@ Explain the integration of development tools, the options and how to install app
 
 9:30 Red Hat and OpenSource
 
-10:00 OpenShift - the platform for great ideas
+10:00 OpenShift Architecture Part 1
 
 10:30 Break
 
-10:45 OpenShift Architecture
+10:45 OpenShift Architecture Part 2
 
 12:30 Lunch Break
 
-13:30 CoreOS and OpenShift 4.x
+13:30 Storage
 
-14:15 Moving on from Docker . The new container framework
+14:15 Networking
 
-15:30 Break
+15:00 Break
 
-15:45 Live Demo
+15:15 Istio
 
-16:00 HandsOn OpenShift 4.x „Build an App with OpenShift“
+15:45 HandsOn OpenShift 4.x „Build an App with OpenShift“
 
 17:00 End Day One
 
@@ -64,21 +65,21 @@ Explain the integration of development tools, the options and how to install app
 
 9:00 Recap Day One
 
-9:15 Buliding Containers with Buildah 
+9:15 Platform Installation
 
-10:00 Istio Service Mesh
+10:00 Multicloud Management
 
-10:40 Container Native Virtualisation
+10:30 Break
 
-11:00 Break
+10:45 Operator Framework
 
-11:15 Modern Regisitry Management (QUAY)
+11:30 Cloud Native Virtualisation
 
-11:30 API Management with 3Scale
+12:00 Modern Regisitry Management (QUAY)
 
 12:30 Lunch Break
 
-13:30 Running Continerised Workloads on OpenShift (IBM CloudPak, MS, ...)
+13:30 Hands On Software Development with OpenShift (CI/CD, Bulid, ...)
 
 15:00 Break
 
